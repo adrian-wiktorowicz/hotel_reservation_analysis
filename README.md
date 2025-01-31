@@ -6,7 +6,7 @@ The dataset is rich in details, allowing for comprehensive analysis. The project
 
 ## Project Structure
 The project consists of the following files:
-- `hotel_booking_analysis.ipynb` - Jupyter Notebook containing data analysis and modeling
+- `hotel_booking_analysis.ipynb` - Jupyter Notebook containing data analysis, modeling, and all visualizations
 - `requirements.txt` - List of required dependencies for running the project
 
 ## Installation and Usage
